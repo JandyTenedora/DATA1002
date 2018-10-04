@@ -7,3 +7,5 @@ Webscraper will require installation of the following driver:
 http://chromedriver.chromium.org/downloads
 
 The folder "requiredCSVs" contains all the files imported by Data1002PartOne.ipynb
+
+Special shoutout to King Paul for fixing the webscraping script. Forever in your debt. 
